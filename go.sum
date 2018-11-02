@@ -1,0 +1,10 @@
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible h1:2cauKuaELYAEARXRkq2LrJ0yDDv1rW7+wrTEdVL3uaU=
+github.com/go-telegram-bot-api/telegram-bot-api v4.6.4+incompatible/go.mod h1:qf9acutJ8cwBUhm1bqgz6Bei9/C/c93FPDljKWwsOgM=
+github.com/hekmon/cunits v2.0.0+incompatible h1:2EXeWgCEZVvDOidPSiC2Ow4LXNOCuJlSYkxvI0tyK+E=
+github.com/hekmon/cunits v2.0.0+incompatible/go.mod h1:0QdfIGGkucx1VgStMNiHOYn84t/Ru65b+D3z1QszVPc=
+github.com/hekmon/transmissionrpc v0.0.0-20180826190939-5e0fdaaae2ca h1:e48w8VmSlOun7WZDmXDBKzlUraWAOq6Lkh62J2myK0w=
+github.com/hekmon/transmissionrpc v0.0.0-20180826190939-5e0fdaaae2ca/go.mod h1:b1R6hlzo+gEUNWGh53mw9mPWyYyODdZu/qlVqT+W+PU=
+github.com/technoweenie/multipartstreamer v1.0.1 h1:XRztA5MXiR1TIRHxH2uNxXxaIkKQDeX7m2XsSOlQEnM=
+github.com/technoweenie/multipartstreamer v1.0.1/go.mod h1:jNVxdtShOxzAsukZwTSw6MDx5eUJoiEBsSvzDU9uzog=
+gopkg.in/telegram-bot-api.v4 v4.6.4 h1:hpHWhzn4jTCsAJZZ2loNKfy2QWyPDRJVl3aTFXeMW8g=
+gopkg.in/telegram-bot-api.v4 v4.6.4/go.mod h1:5DpGO5dbumb40px+dXcwCpcjmeHNYLpk0bp3XRNvWDM=

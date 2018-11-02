@@ -1,0 +1,8 @@
+# github.com/hekmon/cunits v2.0.0+incompatible
+github.com/hekmon/cunits
+# github.com/hekmon/transmissionrpc v0.0.0-20180826190939-5e0fdaaae2ca
+github.com/hekmon/transmissionrpc
+# github.com/technoweenie/multipartstreamer v1.0.1
+github.com/technoweenie/multipartstreamer
+# gopkg.in/telegram-bot-api.v4 v4.6.4
+gopkg.in/telegram-bot-api.v4
